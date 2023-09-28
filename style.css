@@ -6,3 +6,14 @@
     
     }
     
+    .principal{
+        background-image: url("Background.png");
+        background-size: contain;
+    }
+    .container{
+        height: 100hv;
+    }
+
+
+
+
